@@ -1,6 +1,5 @@
-# untitled_5
-
-A new Flutter project.
+# marketsage
+This application replicates real stock market conditions by allowing users to perform paper trading with virtual capital, analyze portfolio performance, visualize market trends, and receive intelligent AI-based financial guidance. The system focuses on risk management, decision optimization, and long-term investment learning
 
 ## Getting Started
 
