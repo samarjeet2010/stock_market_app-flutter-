@@ -283,23 +283,25 @@ This project was built for:
 
 
 
-<img width="500" height="700" alt="WhatsApp Image 2026-05-11 at 3 33 23 PM" src="https://github.com/user-attachments/assets/a418b0c9-bbd8-4892-aefc-465ca05d374d" />
-
-<img width="500" height="700" alt="WhatsApp Image 2026-05-11 at 3 33 23 PM (1)" src="https://github.com/user-attachments/assets/88f9b5e9-cf41-4575-bd40-da0da38daf91" />
 
 
-<img width="500" height="700" alt="WhatsApp Image 2026-05-11 at 3 33 24 PM (2)" src="https://github.com/user-attachments/assets/734f7100-678a-4339-a1d2-54117517999b" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a418b0c9-bbd8-4892-aefc-465ca05d374d" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/88f9b5e9-cf41-4575-bd40-da0da38daf91" width="250"/>
+</p>
 
-<img width="500" height="700" alt="WhatsApp Image 2026-05-11 at 3 33 24 PM (1)" src="https://github.com/user-attachments/assets/e00a73bd-31d0-40c1-945d-3d68a4f53eb1" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/734f7100-678a-4339-a1d2-54117517999b" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e00a73bd-31d0-40c1-945d-3d68a4f53eb1" width="250"/>
+</p>
 
-
-
-<img width="500" height="700" alt="WhatsApp Image 2026-05-11 at 3 33 24 PM" src="https://github.com/user-attachments/assets/0f2d2689-70fe-430c-83bd-c303682c15e6" />
-
-
-
-
-<img width="500" height="700" alt="WhatsApp Image 2026-05-11 at 3 33 23 PM (3)" src="https://github.com/user-attachments/assets/b902f8ce-1648-4885-bfd2-374c2bbe0247" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f2d2689-70fe-430c-83bd-c303682c15e6" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b902f8ce-1648-4885-bfd2-374c2bbe0247" width="250"/>
+</p>
 
 
 # Author 
