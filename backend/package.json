@@ -1,0 +1,23 @@
+{
+  "name": "marketsage-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the MarketSage stock market paper-trading Flutter app",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "razorpay": "^2.9.4",
+    "uuid": "^9.0.1"
+  }
+}
