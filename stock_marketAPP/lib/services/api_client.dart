@@ -24,9 +24,9 @@ class ApiClient {
   String get baseUrl {
     if (_baseUrlOverride != null) return _baseUrlOverride!;
     if (!kIsWeb && defaultTargetPlatform == TargetPlatform.android) {
-      return 'https://stock-market-app-flutter.onrender.com/';
+      return 'https://stock-market-app-flutter.onrender.com/api';
     }
-    return 'https://stock-market-app-flutter.onrender.com/';
+    return 'https://stock-market-app-flutter.onrender.com/api';
   }
 
   void overrideBaseUrl(String url) {
