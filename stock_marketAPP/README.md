@@ -94,7 +94,34 @@ If Razorpay credentials are not configured, the backend can use its built-in moc
 
 Users can complete a risk assessment to determine their risk profile and use it as part of their investment experience.
 
----
+
+
+
+# UI Preview
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a418b0c9-bbd8-4892-aefc-465ca05d374d" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/88f9b5e9-cf41-4575-bd40-da0da38daf91" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/734f7100-678a-4339-a1d2-54117517999b" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e00a73bd-31d0-40c1-945d-3d68a4f53eb1" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f2d2689-70fe-430c-83bd-c303682c15e6" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b902f8ce-1648-4885-bfd2-374c2bbe0247" width="250"/>
+</p>
+
+
+
+
+
 
 # 🏗️ Tech Stack
 
@@ -730,13 +757,10 @@ Possible future enhancements:
 
 ---
 
-# 📄 License
+#  Author
+Samar Jeet
 
-This project is intended for educational and portfolio purposes.
 
-You may modify and extend the project according to your requirements.
-
----
 
 ## ⭐ If you like this project
 
